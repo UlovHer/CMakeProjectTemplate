@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\ProjectTemplate.dir/objects.a
+D:\Mingw64\bin\ar.exe cr CMakeFiles\ProjectTemplate.dir/objects.a @CMakeFiles\ProjectTemplate.dir\objects1.rsp
+D:\Mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ProjectTemplate.dir/objects.a -Wl,--no-whole-archive -o ProjectTemplate.exe -Wl,--out-implib,libProjectTemplate.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ProjectTemplate.dir\linklibs.rsp

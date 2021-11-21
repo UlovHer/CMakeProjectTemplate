@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/VSCodeWorkSpace/CMakeProjectTemplate/build",
+  "command": "D:\\Mingw64\\bin\\g++.exe   -g -o CMakeFiles\\ProjectTemplate.dir\\main.cpp.obj -c E:\\VSCodeWorkSpace\\CMakeProjectTemplate\\main.cpp",
+  "file": "E:/VSCodeWorkSpace/CMakeProjectTemplate/main.cpp"
+}
+]
